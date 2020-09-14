@@ -102,6 +102,7 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  height: 300px;
 }
 
 /* END HEADER SECTION */
@@ -438,7 +439,6 @@ button.submit {
 
   #header img.man {
     margin: 20px 0;
-    height: 80%;
   }
 
   #header a.apply,
